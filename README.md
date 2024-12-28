@@ -1,2 +1,2 @@
-# gts_project
+# gts_projesi
 GTS
