@@ -1,2 +1,3 @@
 # gts_projesi
-GTS
+
+[Uploading GTSProject (1).pdf…]()
